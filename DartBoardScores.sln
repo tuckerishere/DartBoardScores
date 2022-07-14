@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DartboardScores.Api", "DartBoardScores.Api\DartboardScores.Api.csproj", "{B91B6D4B-671E-4A5F-8B87-582A27E199E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DartBoardScores.Data", "DartBoardScores.Data\DartBoardScores.Data.csproj", "{1278BF20-489D-4B20-A575-19E9AAE16C12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DartBoardScores.Services", "DartBoardScores.Services\DartBoardScores.Services.csproj", "{4956B42D-F17A-4038-BFCC-861697B5267E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B91B6D4B-671E-4A5F-8B87-582A27E199E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91B6D4B-671E-4A5F-8B87-582A27E199E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91B6D4B-671E-4A5F-8B87-582A27E199E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91B6D4B-671E-4A5F-8B87-582A27E199E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1278BF20-489D-4B20-A575-19E9AAE16C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1278BF20-489D-4B20-A575-19E9AAE16C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1278BF20-489D-4B20-A575-19E9AAE16C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1278BF20-489D-4B20-A575-19E9AAE16C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4956B42D-F17A-4038-BFCC-861697B5267E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4956B42D-F17A-4038-BFCC-861697B5267E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4956B42D-F17A-4038-BFCC-861697B5267E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4956B42D-F17A-4038-BFCC-861697B5267E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
